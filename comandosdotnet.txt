@@ -1,0 +1,5 @@
+comando para buildar o projeto
+
+dotnet new console --name cursocsharp --force
+
+dotnet run

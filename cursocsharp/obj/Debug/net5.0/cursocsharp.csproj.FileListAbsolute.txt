@@ -1,0 +1,16 @@
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.csprojAssemblyReference.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\cursocsharp.exe
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\cursocsharp.deps.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\cursocsharp.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\cursocsharp.runtimeconfig.dev.json
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\cursocsharp.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\ref\cursocsharp.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\bin\Debug\net5.0\cursocsharp.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\ref\cursocsharp.dll
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.pdb
+C:\Users\joaop\OneDrive\Documentos\GitHub\Estudo-C-charp\cursocsharp\obj\Debug\net5.0\cursocsharp.genruntimeconfig.cache
