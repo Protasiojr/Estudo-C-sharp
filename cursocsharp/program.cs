@@ -7,17 +7,17 @@ namespace cursocsharp
     {
         static void Main(string[] args)
         {
-            string nome;
-            int idade;
-            double altura;
-            char sexo;
+            double largura = double.Parse(Console.ReadLine());
+            double comprimento = double.Parse(Console.ReadLine());
+            double area;
+            double valorPorMetroQuadrado = double.Parse(Console.ReadLine());
+            double preco;
 
-            nome = Console.ReadLine();
-            idade = int.Parse(Console.ReadLine());
-            altura = double.Parse(Console.ReadLine());
-            sexo = char.Parse(Console.ReadLine());
+            area = largura * comprimento;
+            preco = area * valorPorMetroQuadrado;
 
-            Console.Write("Seu nome é " + nome + " ele tem " + idade + " anos de idade, mede " + altura + " de altura e seu sexo é: " + sexo);
+            Console.Write("A área do terreno é de: " + area.ToString("F2") + " e seu valor é: " + preco.ToString("F2"));
+
         }
     }
 }
